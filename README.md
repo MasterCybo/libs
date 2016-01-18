@@ -15,3 +15,6 @@ https://github.com/mayakwd/as3-eaze-tween
 
 - TweenMax (GSAP) 12.1.5
 http://greensock.com/tweenmax-as
+
+ANE extensions
+-------------
