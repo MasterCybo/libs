@@ -1,4 +1,7 @@
-# libs
+# Libraries
+
+SWC libraries
+-------------
 
 - Starling 1.7
 http://gamua.com/starling/
