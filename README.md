@@ -10,6 +10,9 @@ https://github.com/Gamua/Starling-Framework
 - Feathers 2.3.0
 http://feathersui.com/
 
+- Starling-Extension-Graphics 18.12.2015
+https://github.com/StarlingGraphics/Starling-Extension-Graphics
+
 - EazeTween 9.02.2015
 https://github.com/mayakwd/as3-eaze-tween
 
