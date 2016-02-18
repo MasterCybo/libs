@@ -3,24 +3,24 @@
 SWC libraries
 -------------
 
-- Starling 1.7
-http://gamua.com/starling/
-https://github.com/Gamua/Starling-Framework
+1. Starling 1.7
+  - [Home page](http://gamua.com/starling/)
+  - [GitHub](https://github.com/Gamua/Starling-Framework)
 
-- Feathers 2.3.0
-http://feathersui.com/
+2. Feathers 2.3.0
+  - [Home page](http://feathersui.com/)
 
-- Starling-Extension-Graphics 18.12.2015
-https://github.com/StarlingGraphics/Starling-Extension-Graphics
+3. Starling-Extension-Graphics 18.12.2015
+  - [GitHub](https://github.com/StarlingGraphics/Starling-Extension-Graphics)
 
-- EazeTween 9.02.2015
-https://github.com/mayakwd/as3-eaze-tween
+4. EazeTween 9.02.2015
+  - [GitHub](https://github.com/mayakwd/as3-eaze-tween)
 
-- TweenMax (GSAP) 12.1.5
-http://greensock.com/tweenmax-as
+5. TweenMax (GSAP) 12.1.5
+  - [Home page](http://greensock.com/tweenmax-as)
 
-- SoundAS 14.05.2015
-https://github.com/treefortress/SoundAS
+6. SoundAS 14.05.2015
+  - [GitHub](https://github.com/treefortress/SoundAS)
 
 ANE extensions
 -------------
