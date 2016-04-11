@@ -13,7 +13,7 @@ SWC libraries
 3. Starling-Extension-Graphics 18.12.2015
   - [GitHub](https://github.com/StarlingGraphics/Starling-Extension-Graphics)
 
-4. EazeTween 9.02.2015
+4. EazeTween 23.03.2016
   - [GitHub](https://github.com/mayakwd/as3-eaze-tween)
 
 5. TweenMax (GSAP) 12.1.5
