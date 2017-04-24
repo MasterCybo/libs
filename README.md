@@ -1,7 +1,7 @@
 # Libraries
 
 SWC libraries
--------------
+---
 
 1. Starling 2.1
   - [Home page](http://gamua.com/starling/)
@@ -23,4 +23,4 @@ SWC libraries
   - [GitHub](https://github.com/treefortress/SoundAS)
 
 ANE extensions
--------------
+---
