@@ -2,11 +2,11 @@
 
 ### SWC libraries
 
-1. Starling 2.1
+0. Starling 2.1
 	- [Home page](http://gamua.com/starling/)
 	- [GitHub](https://github.com/Gamua/Starling-Framework)
 
-2. Feathers 3.2
+0. Feathers 3.2
 	- [Home page](http://feathersui.com/)
 
 3. Starling-Extension-Graphics 18.12.2015
